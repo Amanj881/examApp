@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mcq-exam/static/css/main.c338f402.chunk.css",
+    "main.js": "/mcq-exam/static/js/main.b3bc21a5.chunk.js",
+    "main.js.map": "/mcq-exam/static/js/main.b3bc21a5.chunk.js.map",
+    "runtime-main.js": "/mcq-exam/static/js/runtime-main.17d1a47e.js",
+    "runtime-main.js.map": "/mcq-exam/static/js/runtime-main.17d1a47e.js.map",
+    "static/js/2.2faa2a28.chunk.js": "/mcq-exam/static/js/2.2faa2a28.chunk.js",
+    "static/js/2.2faa2a28.chunk.js.map": "/mcq-exam/static/js/2.2faa2a28.chunk.js.map",
+    "index.html": "/mcq-exam/index.html",
+    "precache-manifest.686ec257a5c9c3b20b3d154694bba61c.js": "/mcq-exam/precache-manifest.686ec257a5c9c3b20b3d154694bba61c.js",
+    "service-worker.js": "/mcq-exam/service-worker.js",
+    "static/css/main.c338f402.chunk.css.map": "/mcq-exam/static/css/main.c338f402.chunk.css.map",
+    "static/js/2.2faa2a28.chunk.js.LICENSE.txt": "/mcq-exam/static/js/2.2faa2a28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17d1a47e.js",
+    "static/js/2.2faa2a28.chunk.js",
+    "static/css/main.c338f402.chunk.css",
+    "static/js/main.b3bc21a5.chunk.js"
+  ]
+}
