@@ -1,6 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-//Developer Amanjain
-//Email jainaman091996@gmail.com
+
 # dependencies
 /node_modules
 /.pnp
